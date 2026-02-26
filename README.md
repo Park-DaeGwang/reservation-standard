@@ -5,6 +5,9 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6.x-green)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 ![Redis](https://img.shields.io/badge/Redis-Redisson-red)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-007ACC?style=flat-square&logo=jquery&logoColor=white)
 
 > **안전하고 신뢰할 수 있는 B2C 숙박 예약 시스템 API** > 대용량 트래픽이 몰리는 상황에서도 '초과 예약(Overbooking)'이 발생하지 않도록 견고한 동시성 제어와 데이터 정합성 보장에 초점을 맞추어 개발 중인 프로젝트입니다.
 
